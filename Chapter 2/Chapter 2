@@ -44,5 +44,16 @@ The Role of Data in the 21st Century:
 Data-Driven Decision-Making:
 -	data must be organized and analysed to understand patterns, make decisions, identify problems, and feed other systems.
 Data ownership describes the rights a person, team, or organization has over one or more data sets.
-Data Architecture:
 
+Data Architecture:
+-	data architecture is the manner in which data design and management decisions are being made to align with Enterprise Architecture (EA) and in turn, with the business.
+-	data architecture is the agreed blueprint for how data supports an organization’s functions and technologies.
+
+•	high-quality enterprises and data architectures both exist, organizations run more smoothly, and they can transform as conditions (either internally or in the marketplace) dictate. The absence or poor implementation of both can stifle digital transformation efforts, create high levels of complexity, and increase the possibility of failure.
+data architecture considers and typically supports:
+•	Ensuring data is available to those who need it and are approved to use it.
+•	Reducing the complexity of accessing and utilizing data
+•	Creating and enforcing data protections to support organizational policies and obligations.
+•	Adopting and agreeing to data standards
+•	Optimizing the flow and efficient use of data to eliminate bottlenecks and duplication.
+The Lifecycle of Data:
