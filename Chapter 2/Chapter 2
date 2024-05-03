@@ -1,0 +1,48 @@
+Defining Data
+-	Data refers to collections of digitally stored units, in other words, stuff that is kept on a computing device
+-	Single units of data are traditionally referred to as datum
+Categories of Data:
+-	Structured: Data that has been formatted to a set structure; each data unit fits nicely into a table in a database. It’s ready for analysis. Examples include first name, last name, and phone number.
+-	Unstructured: Data that are stored in a native format must be processed to be used. Further work is required to enable analysis. Examples include email content and social media posts.
+-	Semi-structured: Data that contains additional information to enable the native format to be searched and analysed.
+The Zettabyte Era:
+8 bits	1 byte
+1024 bytes	1 kilobyte
+1024 kilobytes	1 megabyte
+1024 megabytes	1 gigabyte
+1024 gigabytes	1 terabyte
+1024 terabytes	1 petabyte
+1024 petabytes	1 exabyte
+1024 exabytes	1 zettabyte
+1024 zettabytes	1 yottabyte
+1024 yottabytes	1 brontobyte
+
+Data Volumes:
+Unit	Value	Example
+		
+Kilobytes (KB)	1,000 bytes	a paragraph of a text document
+Megabytes (MB)	1,000 Kilobytes	a small novel
+Gigabytes (GB)	1,000 Megabytes	Beethoven’s 5th Symphony
+Terabytes (TB)	1,000 Gigabytes	all the X-rays in a large hospital
+Petabytes (PB)	1,000 Terabytes	half the contents of all US academic research libraries
+Exabytes (EB)	1,000 Petabytes	about one fifth of the words people have ever spoken
+Zettabytes (ZB)	1,000 Exabytes	as much information as there are grains of sand on all the world’s beaches
+Yottabytes (YB)	1,000 Zettabytes	as much information as there are atoms in 7,000 human bodies
+
+From Data to Insight:
+Data	Information
+Raw	Processed
+Items such as characters, words, pictures, and numbers that have no meaning in isolation	Data that is organized and given context to have meaning
+No analysis dependency	Dependent on the analysis of data
+
+
+ 
+Unorganized and not dependent on context	Organized and dependent on context
+Not typically useful alone	Useful alone
+
+The Role of Data in the 21st Century:
+Data-Driven Decision-Making:
+-	data must be organized and analysed to understand patterns, make decisions, identify problems, and feed other systems.
+Data ownership describes the rights a person, team, or organization has over one or more data sets.
+Data Architecture:
+
