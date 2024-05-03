@@ -1,2 +1,4 @@
 Data Governance
-![data governance](DataGovernance)
+
+![data governance](Data.jpg)
+
