@@ -1,4 +1,3 @@
-![Data Governance](DataGovernance.jpg)
-
+![Data Governance](Documents/Data.jpg)
 
 Data Governance
