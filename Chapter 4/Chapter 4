@@ -60,3 +60,27 @@ Acquiring and applying insight from data means defining the following:
 3.	Vision: Having ideas about how insight will help and what that might look like in practice
 4.	Outcome:  Specifying how insights will be adopted and success will be measured
 
+Data Analytics:
+The source of data for analytics is one or a combination of the following:
+1.	First-party data:  Data that an organization collects.
+2.	Second-party data:  Data that is obtained from another organization.
+3.	Third-party data:  Aggregated data obtained from a provider.
+Typical uses of contemporary data analytics tools and techniques include:
+1.	Vastly improved decision-making
+2.	Focused marketing campaigns
+3.	Understanding the competitive landscape
+4.	Designing more innovative products
+5.	Better customer service
+6.	Improved operations
+7.	Insights on customer behaviour
+Data Monetization:
+-	data falls into the same category as assets such as copyrights and software.
+-	data valuation - the value of a given data set may be highly subjective and may differ considerably between the perspectives of team members.
+-	data monetization - When data provides an economic benefit to an organization.
+-	Data valuation is a requirement for advanced data monetization such as selling or licensing data.
+Methods to determine data valuation. 
+
+Cost value method:  Value is calculated by determining how much it costs to produce, store, and replace lost data. It’s a simple method and can be useful as a lightweight approach, but it is subjective and doesn’t necessarily account for the economic value that the data can produce.
+Market value approach:  Value is calculated by researching how comparable data is being priced in the open market. It’s a great approach if market-based comparable data exists but doesn’t work for the vast number of data sets that are not traded.
+Economic value approach:  Value is calculated by measuring the impact a data set has on the business’s bottom line. It’s a difficult approach because it may be nearly impossible to identify the specific value of the data relative to other contributors of value.
+With-and-without method:  Value is calculated by quantifying the impact on cash flow if a data set needs to be replaced. Scenarios with and without the data are explored and the difference between cash flow is used to determine data value. Like others, this can be challenging to pinpoint the specific impact of a data set.
